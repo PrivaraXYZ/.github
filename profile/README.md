@@ -1,4 +1,4 @@
-# Welcome to Privara
+## Welcome to Privara
 
 <img width="1500" alt="Privara-Banner" src="https://github.com/PrivaraXYZ/.github/blob/main/banner.png">
 
