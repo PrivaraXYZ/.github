@@ -24,4 +24,5 @@ Privacy isn't a mode — it's how Privara works. Multichain. Any wallet. Worldwi
 
 ## Stay Connected
 
+- [Telegram](https://t.me/PrivaraXYZ): Join our community and stay connected.
 - [X](https://x.com/PrivaraXYZ): Follow us for the latest announcements and updates.
