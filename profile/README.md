@@ -7,14 +7,6 @@ Privacy isn't a mode — it's how Privara works. Multichain. Any wallet. Worldwi
 
 ---
 
-## Open Source Projects
-
-- [platform-fhe-nodejs-worker](https://github.com/PrivaraXYZ/platform-fhe-nodejs-worker): Node.js worker for Fully Homomorphic Encryption (FHE) operations.
-- [platform-fhe-golang-worker](https://github.com/PrivaraXYZ/platform-fhe-golang-worker): Go worker for Fully Homomorphic Encryption (FHE) operations.
-- [zama-golang-relayer-sdk](https://github.com/PrivaraXYZ/zama-golang-relayer-sdk): Go SDK for relaying transactions on Zama's fhEVM.
-
----
-
 ## Getting Started
 
 1. [Website](https://privara.xyz): Learn more about Privara and how it works.
